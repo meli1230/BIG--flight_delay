@@ -1,28 +1,15 @@
 # Binary Prediction of Flight Delays – San Jose Airport (SJC)
 This project aims to predict whether flights departing from San Jose International Airport (SJC), California are delayed or not, using binary classification models trained on a cleaned subset of the Flight Delay Dataset 2018–2024 from Kaggle.
 
+## Resources
+The notebook containing the code was provided within the source files. However, if you wish to see the Google Collab version, you can find it [here](https://colab.research.google.com/drive/18goYM5GGeQgMENW6jTGsoLAh27j9pQDC?usp=sharing). <br/>
+The dataset that was used in this project can be found on Kaggle or you can access it by clicking [here](https://www.kaggle.com/datasets/shubhamsingh42/flight-delay-dataset-2018-2024).
 
-
-colab: https://colab.research.google.com/drive/18goYM5GGeQgMENW6jTGsoLAh27j9pQDC?usp=sharing
-
-
-
-
-
-
-## Repository Contents
-
-- `flight_delay_model.ipynb` – notebook containing all preprocessing, modeling, and evaluation steps.
-- `flight_data.csv` –  can be found on [Kaggle](https://www.kaggle.com/datasets/shubhamsingh42/flight-delay-dataset-2018-2024/data?select=flight_data_2018_2024.csv)
-
-- 
-- `README.md` – This file.
-
-## 🎯 Objective
+## Objective
 
 Predict whether a flight will be delayed by **15 minutes or more** (DepDel15 = 1) or not (DepDel15 = 0), using historical flight data.
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 - Source: [Kaggle Dataset](https://www.kaggle.com/datasets/shubhamsingh42/flight-delay-dataset-2018-2024)
 - Scope: Only **January 2018** data used.
