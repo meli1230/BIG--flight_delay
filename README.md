@@ -10,7 +10,7 @@ colab: https://colab.research.google.com/drive/18goYM5GGeQgMENW6jTGsoLAh27j9pQDC
 
 
 
-## 📁 Repository Contents
+## Repository Contents
 
 - `flight_delay_model.ipynb` – notebook containing all preprocessing, modeling, and evaluation steps.
 - `flight_data.csv` –  can be found on [Kaggle](https://www.kaggle.com/datasets/shubhamsingh42/flight-delay-dataset-2018-2024/data?select=flight_data_2018_2024.csv)
